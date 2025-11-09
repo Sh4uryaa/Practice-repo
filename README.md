@@ -1,3 +1,2 @@
 # Hello
-## Random sentence
-Bye
+## Bye
