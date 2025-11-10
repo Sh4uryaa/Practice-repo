@@ -4,5 +4,5 @@
 ## Bye
 
 # Features
-1. Feautre 1
-2. Feature 2
+<div>1. Feature 1</div>
+<div>2. Feature 2</div>
